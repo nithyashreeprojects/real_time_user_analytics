@@ -13,7 +13,7 @@ producer = None
 
 @app.on_event("startup")
 def startup_event():
-    global producer
+    global producer 
     retries = 10
     while retries > 0:
         try:
