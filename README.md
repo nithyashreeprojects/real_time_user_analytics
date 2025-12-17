@@ -38,6 +38,9 @@ Event Generator -> Ingest Service (FastAPI) -> Kafka Topic -> Consumer Service -
 
 ---
 
+## Dashboard
+![Main Dashboard](<dashboard/Screenshot 2025-12-17 at 2.44.44 PM.png>)
+
 ## 📁 Repository Structure
 
 ```
