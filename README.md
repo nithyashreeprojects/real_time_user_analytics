@@ -21,6 +21,7 @@ This system captures user interaction events (clicks, page views, etc.) and proc
 ## Architecture
 Event Generator -> Ingest Service (FastAPI) -> Kafka Topic -> Consumer Service -> TimescaleDB -> Grafana Dashboard
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/0f130540-ee87-4ca4-b0db-7a65bee70985" />
 
 ---
 
