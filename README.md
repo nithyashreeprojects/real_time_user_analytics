@@ -39,8 +39,23 @@ Event Generator -> Ingest Service (FastAPI) -> Kafka Topic -> Consumer Service -
 ---
 
 ## Dashboard
+Main Dashboard
+
 ![Main Dashboard](<dashboard/Screenshot 2025-12-17 at 2.44.44 PM.png>)
 
+Active Users 
+![active users](<dashboard/Screenshot 2025-12-17 at 2.46.23 PM.png>)
+
+Top Event Types
+![top event types](<dashboard/Screenshot 2025-12-17 at 2.47.03 PM.png>)
+
+Events per minute
+![events per minute](<dashboard/Screenshot 2025-12-17 at 2.47.43 PM.png>)
+
+Events by type
+![events by type](<dashboard/Screenshot 2025-12-17 at 2.48.15 PM.png>)
+
+---
 ## 📁 Repository Structure
 
 ```
