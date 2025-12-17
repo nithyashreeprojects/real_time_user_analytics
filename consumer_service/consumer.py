@@ -3,7 +3,7 @@ import time
 import os
 import psycopg2
 from kafka import KafkaConsumer
-
+ 
 # -----------------------------
 # Kafka config
 # -----------------------------
